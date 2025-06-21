@@ -71,4 +71,26 @@ h1 {
 
 #reset-btn:hover {
     background-color: #0056b3;
+}
+
+.lang-switcher {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+}
+
+.lang-switcher button {
+    background: none;
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 5px;
+    font-weight: bold;
+}
+
+.lang-switcher button.active {
+    background-color: #007BFF;
+    color: white;
+    border-color: #007BFF;
 } 

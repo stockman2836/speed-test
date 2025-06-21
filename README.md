@@ -27,6 +27,7 @@ A website that:
 
 ## 🔍 Implemented Features
 
+-   **Language Selection**: Choose between English and Ukrainian for the user interface and typing phrases.
 -   **Random Phrase**: A new phrase from a predefined list appears on each refresh or press of the "Try Again" button.
 -   **Input Field**: An interactive field for typing text.
 -   **Timer**: Starts automatically with the first character typed.
